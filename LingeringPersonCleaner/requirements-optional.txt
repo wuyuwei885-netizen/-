@@ -1,0 +1,4 @@
+# Optional: better alpha extraction. Install only if your environment supports it.
+-r requirements.txt
+rembg>=2.0.57
+onnxruntime>=1.17.0
